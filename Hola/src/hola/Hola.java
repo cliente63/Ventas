@@ -16,8 +16,9 @@ public class Hola {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HOlA");
-        System.out.println("ADIÖS");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("M");
+        }
     }
     
 }
